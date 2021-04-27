@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit_EF_WebApp", "MassTransit_EF_WebApp\MassTransit_EF_WebApp.csproj", "{A2037B96-EBE1-4991-BDD8-D8B5784F9129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit_EF_WebApp_Tests", "MassTransit_EF_WebApp_Tests\MassTransit_EF_WebApp_Tests.csproj", "{2F8E879B-79CC-4F10-8AB0-25AB163D012B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2037B96-EBE1-4991-BDD8-D8B5784F9129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2037B96-EBE1-4991-BDD8-D8B5784F9129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2037B96-EBE1-4991-BDD8-D8B5784F9129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2037B96-EBE1-4991-BDD8-D8B5784F9129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8E879B-79CC-4F10-8AB0-25AB163D012B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8E879B-79CC-4F10-8AB0-25AB163D012B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8E879B-79CC-4F10-8AB0-25AB163D012B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8E879B-79CC-4F10-8AB0-25AB163D012B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4923EF68-4796-4A51-AD1E-1014EBB37266}
+	EndGlobalSection
+EndGlobal
